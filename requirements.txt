@@ -1,8 +1,6 @@
 streamlit
-joblib
-numpy
 google-generativeai 
---upgrade chromadb 
+chromadb 
 pandas 
 pyPDF 
 python-dotenv 
