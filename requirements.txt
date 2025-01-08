@@ -1,3 +1,9 @@
 streamlit
 joblib
 numpy
+google-generativeai 
+chromadb 
+pandas 
+pyPDF 
+python-dotenv 
+requests
