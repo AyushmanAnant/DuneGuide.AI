@@ -6,3 +6,4 @@ pyPDF
 python-dotenv
 requests
 pysqlite3
+pip==24.3.1
